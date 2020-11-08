@@ -9,6 +9,10 @@ This is an example to show different part of git
 
 ##Deployment
 
+This is simple web project deployment can be anything
 ## Purpose
+
+As stated above the main purpose is to have knowlege on git
+As stated above the main purpose is to have knowlege on git
 
 Sample website with plenty of files for demos
