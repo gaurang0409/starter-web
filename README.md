@@ -17,6 +17,9 @@ As stated above the main purpose is to have knowlege on git
 
 Sample website with plenty of files for demos
 
+##How to contribute
+
+Please fork this repository and then issue Pull requests for review
 
 ## Copyright
 
