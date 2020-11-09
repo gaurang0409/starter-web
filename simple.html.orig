@@ -1,13 +1,15 @@
 <!DOCTYPE html>
 <!--
 Copy right GAURANG 2020
+<<<<<<< HEAD
+Some silly changes for master branhc
+
+=======
+This changes are from the feature branch
+>>>>>>> 7d099f8... adding some trouble to feature branch
 -->
 <head>
-<<<<<<< HEAD
 	<title>A very respectfull Website</title>
-=======
-	<title>A Great Website</title>
->>>>>>> realwork
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<style>
 		body {
@@ -19,21 +21,17 @@ Copy right GAURANG 2020
 </head>
 <body>
 	<main class="container">
-	<!-- Content Goes Here -->
+	<!-- Junk filer  -->
 		<p>
 <<<<<<< HEAD
-			I am not sure what will go here but i am sure it will be nice
+			Just stuff for now 
 		</p>
-	</main>
-	<footer class="container">
-		<p>&copy; Jason Taylot 2014</p>
 =======
-			Some interesting stuff goes here
-		</p>
+			Just nothing but trouble		</p>
+>>>>>>> 7d099f8... adding some trouble to feature branch
 	</main>
 	<footer class="container">
 		<p>&copy; git Training 2014</p>
->>>>>>> realwork
 	</footer>
 </body>
 </html>
