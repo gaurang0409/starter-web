@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    gaurang Patel -- Developer -- twitter.com
 
 # THANKS
 
